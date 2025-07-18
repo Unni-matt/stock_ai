@@ -13,7 +13,7 @@ import socket
 socket.setdefaulttimeout(20)
 
 # ✅ STEP 1: Stock/company-specific news sources
-NEWSDATA_API_KEY = "pub_55b70ce890df4aec9ddd99936d122e86"   # <-- YOUR KEY
+NEWSDATA_API_KEY = "*********************"   # <-- YOUR KEY
 symbols = [
     "TATA MOTORS", "RELIANCE", "INFOSYS", "HDFC BANK", "ICICI BANK",
     "ITC", "SBIN", "WIPRO", "BHARTI AIRTEL", "ADANI"
