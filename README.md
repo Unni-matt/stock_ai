@@ -1,4 +1,4 @@
-Currently the fetch code from NSE site is not wokring.but indexes 
+Currently the fetch code from NSE site is not working.but indexes 
 can be taken from backup drive
 Modify the code accordingly.
 Stocks are given to 100 for test purpose..
